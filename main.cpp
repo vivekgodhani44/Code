@@ -4,6 +4,7 @@ using namespace std;
 #define int long long int
 void solve()
 {
+    cout << "Hi I am vivek.";
 }
 
 signed main()
